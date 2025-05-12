@@ -1,0 +1,39 @@
+body{background-color: #8597A9;}
+h1{color:#FF0000;
+	font-family: Pricedown;
+	font-size: 45px;
+	background-color: #00AAFF;
+	text-align: center;
+	padding: 15px;
+	margin-left: 200px;
+	margin-right: 200px;}
+p{color: #FF0000;
+	font-family: Pricedown;
+	font-size: 18px; 
+    text-align: center;}
+img{border-style: double;
+	border-width: 10px;
+	border-color: #00AAFF;
+	display: block;
+	margin: auto; }
+
+a{text-decoration: none;
+	font-family: Pricedown;
+	font-size: 24px;
+	color: :#FF0000;
+	pading: 15px;
+	margin-top: 50px;
+	border-style: solid;
+	border-width: 2px;
+	background-color: #00AAFF;
+}
+
+a:hover{color:white;
+font-size: 32px;}
+
+li{list-style: none;
+display: inline;
+margin-top: 30px
+}
+
+ul{text-align: center;}
